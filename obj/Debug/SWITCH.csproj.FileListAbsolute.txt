@@ -1,0 +1,8 @@
+C:\Users\maria\source\repos\SWITCH\SWITCH\bin\Debug\SWITCH.exe.config
+C:\Users\maria\source\repos\SWITCH\SWITCH\bin\Debug\SWITCH.exe
+C:\Users\maria\source\repos\SWITCH\SWITCH\bin\Debug\SWITCH.pdb
+C:\Users\maria\source\repos\SWITCH\SWITCH\obj\Debug\SWITCH.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\SWITCH\SWITCH\obj\Debug\SWITCH.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\source\repos\SWITCH\SWITCH\obj\Debug\SWITCH.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\SWITCH\SWITCH\obj\Debug\SWITCH.exe
+C:\Users\maria\source\repos\SWITCH\SWITCH\obj\Debug\SWITCH.pdb
